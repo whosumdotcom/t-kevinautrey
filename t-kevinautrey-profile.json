@@ -1,0 +1,33 @@
+{
+  "TermsOfServiceVersion": 1,
+  "TermsAgreedToWhen": "2023-04-06T12:26:30Z",
+  "IdClaims": [
+    {
+      "Claim": "t:kevinautrey"
+    },
+    {
+      "Claim": "spout:kevinautrey"
+    },
+    {
+      "Claim": "mdon:@tkeva@mstdn.social"
+    }
+  ],
+  "IdDisclaims": [
+    {
+      "Claim": "med:no-account"
+    },
+    {
+      "Claim": "ss:no-account"
+    }
+  ],
+  "Signature": {
+    "Authority": "https://whosum.com",
+    "PublicKey": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEApF0NC9C13limzP9H5\u002BcXoWEddOfjDdysecEWNhNxS3yCWdRJjsCpIWY3euUxIFWw9W9Zkbo1tx8YbnLVdCPd7qORelTZZR5I9IvQdsyyqZIeAuw4xk/VcK119Kme13cqhsjOtgCrdekjz5YEklZqXdZKclJMc2fqHjOfHl07lYXWmqx8FxCUjjGCkBcr4WZD/uvs0SXRACkXS01bP0Wbao1sHxyFoADHV5i8Yvg2o32Sy37DMMMOfjO8ZpqqwNKVEs04gGL\u002BnGkDqNP/6lIaTinrzCJe57qcorGcVlWGdV4nC5uMgIgqZ/7pzrCHF5WbXai3g3AObmPJ5eG8TCTsrQIDAQAB",
+    "Nonce": "21189eb989fe050d1c0d3681",
+    "Timestamp": "2023-04-06T12:36:25Z",
+    "Signature": "069a8be6e2ef4f350f7b4ce277c157f064bff62e9747239517cb3f22613954995f2616f9fee0b8cbc627a0fcacec397d3f63784b0927b89d3a31465746369e770a093c91d348469dd4fb0e3da1b6732ca42710341ad32fbf0eb027072bae9616497dfb11040f1bd32f9db00f2b6dd4b05af822b6203e1af0e6ae813ab51f835f8e1f98368561f66b6d71878359441e6af950873d1ceb71010597fec02197d6416d62123d8d8af4139a1317ce003198025d38268127624e5ebd4b76bcee2c9e328182a64717c22b9f589dba0b1fd78b1051ae1999ed953b3c8ec4628b063b7ee16fd73e33ed88cbdefda0b648d4ebcd276ff7b24deddca1dd360f7a1d557cae33"
+  },
+  "AgreedToTerms": true,
+  "ContentSha256": "2051218312580f148d1a055d10091a2137abe21e611927d038671db390e80cad",
+  "ContentToHash": "v1|mdon:@tkeva@mstdn.social,med:no-account,spout:kevinautrey,ss:no-account,t:kevinautrey|2023-04-06T12:26:30Z"
+}
